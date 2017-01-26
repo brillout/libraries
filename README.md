@@ -1,6 +1,6 @@
 This is basically the subset of awesome lists that curate libaries.
 
-If you are looking for Learning Material head over to Sindre Sorhus' [list of awesome lists](https://github.com/sindresorhus/awesome).
+If you are looking for learning material head over to Sindre Sorhus' [list of awesome lists](https://github.com/sindresorhus/awesome).
 
 #### Contents
 - [Frontend](#frontend)
