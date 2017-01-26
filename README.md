@@ -8,7 +8,7 @@ If you are looking for learning material head over to Sindre Sorhus' [list of aw
 - [Desktop](#desktop)
 - [Programming Languages](#programming-languages)
 - [Full Stack Frameworks](#full-stack-frameworks)
-- [Legacy](#legacy)
+- [Legacy](#legacy-1)
 
 <br/>
 
